@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Flowchart } from './flowchart';
+//import graph from './flowchart/moc.json';
 
 const graph = {
   nodes: {

@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"daySelectors\talias"
+			],
+			[
+				"se",
+				"selectDay\tconst"
+			],
+			[
+				"D",
+				"daySelectors\talias"
+			],
+			[
+				"dat",
+				"dayAction\talias"
+			],
+			[
+				"R",
+				"RootStoreState\talias"
+			],
+			[
+				"ro",
+				"root-store.module\tscript"
+			],
+			[
+				"dayS",
+				"dayState\talias"
+			],
+			[
+				"re",
+				"reducer\tscript"
+			],
+			[
+				"Store",
+				"StoreModule\talias"
+			],
+			[
+				"Ac",
+				"Actions\talias"
+			],
+			[
+				"func",
+				"function\tkeyword"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 215.0,
+		"history":
+		[
+			"ng",
+			"exit",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/andrey/Yandex.Disk/Кодинг/Flowchart"
+	],
+	"file_history":
+	[
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/app.module.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/index.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/app.component.html",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/root-selectors.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/day-store/selectors.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/calendar/day/day.component.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/calendar/calendar.module.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/day-store/day-store.module.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/day-store/action.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/day-store/reducer.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/calendar/day/day.component.html",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/day-store/state.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/root-store.module.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/root-state.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/root-store/day-store/index.ts",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/angular.json",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/.gitignore",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/.directory",
+		"/home/andrey/Yandex.Disk/Кодинг/angular-calendar/src/app/day.actions.ts",
+		"/home/andrey/Documents/untitled.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"schema"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flowchart.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
